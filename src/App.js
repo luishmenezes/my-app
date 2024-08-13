@@ -13,11 +13,12 @@ function App() {
       ImageSrc="https://miro.medium.com/v2/resize:fit:828/format:webp/1*vHHBwcUFUaHWXntSnqKdCA.png"
       AltText="Imagem 2"
       text="Imagem 2" />  
+      <hr/>   
       <ImageTextComponent
       ImageSrc="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/300px-React-icon.svg.png"
       AltText="Imagem 3"
       text="Imagem 3" />
-      <hr/>   
+      
       </div>
       
       
